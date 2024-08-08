@@ -1,0 +1,32 @@
+boby {
+    color:rgb(205, 32, 139);
+    background:pink;
+    margin: 8px;
+    font-family: "Chakra Petch", sans-serif;
+}
+
+header{
+    border-bottom: solid 2px greenyellow;
+    padding: 50px;
+    font-size: 30px;
+    color:blueviolet
+}
+
+section {
+    background: purple;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+}
+
+.chamada-texto{
+  margin-right: 5%;
+}
+img{
+    height:200px
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
